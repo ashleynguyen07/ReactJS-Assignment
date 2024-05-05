@@ -1,5 +1,3 @@
-import { STAFFS } from "../data/staff";
-
 function Header() {
     return (
         <div className="bg-primary p-4">

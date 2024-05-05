@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-import Header from './components/header';
+import './styles/App.css';
+import Header from './components/Header';
 import StaffList from './components/StaffList';
 import { STAFFS } from './data/staff';
 import 'bootstrap/dist/css/bootstrap.min.css';
